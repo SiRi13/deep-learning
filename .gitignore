@@ -5,3 +5,5 @@
 *.pickle
 */__pycache__/*
 *.gz
+*.p
+*/cifar-10-batches-py/*
