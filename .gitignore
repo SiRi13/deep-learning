@@ -8,4 +8,6 @@
 *.p
 */cifar-10-batches-py/*
 
-.DS_Store
+embeddings/data/
+
+embeddings/checkpoints/
