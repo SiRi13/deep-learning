@@ -1,13 +1,14 @@
 *.zip
 
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+embeddings/checkpoints/
 
 *.pickle
 */__pycache__/*
 *.gz
 *.p
 */cifar-10-batches-py/*
-
-embeddings/data/
-
-embeddings/checkpoints/
